@@ -7,7 +7,7 @@
     <tr><td>Chinese (简体中文)      </td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>2.6.9</td><td>Tanuki</td></tr>
     <tr><td>Chinese (正體中文)      </td><td><a href="Xreveal_CHT.ini">Xreveal_CHT.ini</a></td><td>2.5.6</td><td></td></tr>
     <tr><td>Finnish (Suomi)         </td><td><a href="Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>2.5.6</td><td>Teppo Lunnas</td></tr>
-    <tr><td>German (Deutsch)        </td><td><a href="Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>2.6.9</td><td>The Punisher</td></tr>
+    <tr><td>German (Deutsch)        </td><td><a href="Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>2.7.0</td><td>The Punisher</td></tr>
     <tr><td>French (Français)       </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>2.6.9</td><td>Andex, <a href="https://github.com/fansubmaniac">fansubmaniac</a></td></tr>
     <tr><td>Indonesian (Indonesia)  </td><td><a href="Xreveal_IND.ini">Xreveal_IND.ini</a></td><td>2.6.1</td><td><a href="https://github.com/naturbrilian">naturbrilian</a></td></tr>
     <tr><td>Italian (Italiano)      </td><td><a href="Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td>2.6.0</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
