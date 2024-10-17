@@ -1,10 +1,10 @@
 ## Translations for Xreveal
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English                 </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>2.7.0</td><td>xreveal</td></tr>
+    <tr><td>English                 </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>2.7.1</td><td>xreveal</td></tr>
     <tr><td>Arabic (عربي)           </td><td><a href="Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>2.3.3</td><td>فتحي الداودية</td></tr>
     <tr><td>Bulgarian               </td><td><a href="Xreveal_BUL.ini">Xreveal_BUL.ini</a></td><td>2.7.0</td><td>jekovcar</td></tr>
-    <tr><td>Chinese (简体中文)      </td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>2.7.0</td><td>Tanuki</td></tr>
+    <tr><td>Chinese (简体中文)      </td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>2.7.1</td><td>Tanuki</td></tr>
     <tr><td>Chinese (正體中文)      </td><td><a href="Xreveal_CHT.ini">Xreveal_CHT.ini</a></td><td>2.5.6</td><td></td></tr>
     <tr><td>Finnish (Suomi)         </td><td><a href="Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>2.5.6</td><td>Teppo Lunnas</td></tr>
     <tr><td>German (Deutsch)        </td><td><a href="Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>2.7.0</td><td>The Punisher</td></tr>
