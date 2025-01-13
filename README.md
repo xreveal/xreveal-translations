@@ -1,14 +1,14 @@
 ## Translations for Xreveal
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English                 </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>2.7.3</td><td>xreveal</td></tr>
+    <tr><td>English                 </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>2.7.4</td><td>xreveal</td></tr>
     <tr><td>Arabic (عربي)           </td><td><a href="Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>2.3.3</td><td>فتحي الداودية</td></tr>
     <tr><td>Bulgarian               </td><td><a href="Xreveal_BUL.ini">Xreveal_BUL.ini</a></td><td>2.7.0</td><td>jekovcar</td></tr>
     <tr><td>Chinese (简体中文)      </td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>2.7.2</td><td>Tanuki</td></tr>
     <tr><td>Chinese (正體中文)      </td><td><a href="Xreveal_CHT.ini">Xreveal_CHT.ini</a></td><td>2.5.6</td><td></td></tr>
     <tr><td>Finnish (Suomi)         </td><td><a href="Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>2.5.6</td><td>Teppo Lunnas</td></tr>
     <tr><td>German (Deutsch)        </td><td><a href="Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>2.7.2</td><td>The Punisher</td></tr>
-    <tr><td>French (Français)       </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>2.7.2</td><td>Andex, fansubmaniac</td></tr>
+    <tr><td>French (Français)       </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>2.7.4</td><td>Andex, fansubmaniac</td></tr>
     <tr><td>Indonesian (Indonesia)  </td><td><a href="Xreveal_IND.ini">Xreveal_IND.ini</a></td><td>2.7.0</td><td><a href="https://github.com/naturbrilian">naturbrilian</a></td></tr>
     <tr><td>Italian (Italiano)      </td><td><a href="Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td>2.6.6</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
     <tr><td>Japanese(日本語)        </td><td><a href="Xreveal_JPN.ini">Xreveal_JPN.ini</a></td><td>2.7.2</td><td>Re*Index.(ot_inc)</td></tr>
@@ -26,7 +26,7 @@
 <pre>    [INFO]
     ID=0x0409           ; LCID (Locale identifier)
     Name=English        ; Language Name
-    Version=2.1.0
+    Version=2.7.0
     Author=             ; Translator
 
     [DIALOG_1]
