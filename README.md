@@ -13,7 +13,7 @@
     <tr><td>Korean (한국어)            </td><td><a href="Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td>2.8.1</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
     <tr><td>Polish (Polski)         </td><td><a href="Xreveal_PLK.ini">Xreveal_PLK.ini</a></td><td>2.5.6</td><td>Fresta</td></tr>
     <tr><td>Russian (Русский)       </td><td><a href="Xreveal_RUS.ini">Xreveal_RUS.ini</a></td><td>2.8.0</td><td>jekovcar</td></tr>
-    <tr><td>Spanish (Español)       </td><td><a href="Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>2.8.1</td><td>Steven Rogers, Leandro Botella Penalva</td></tr>
+    <tr><td>Spanish (Español)       </td><td><a href="Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>2.8.2</td><td>Steven Rogers, Leandro Botella Penalva</td></tr>
     <tr><td>Slovenian (Slovenščina) </td><td><a href="Xreveal_SLV.ini">Xreveal_SLV.ini</a></td><td>2.5.6</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
     <tr><td>Swedish (Svenska)       </td><td><a href="Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td>2.5.6</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
 </table>
