@@ -19,7 +19,7 @@
 </table>
 
 ## How to contribute
-1. Download <a href="https://raw.githubusercontent.com/xreveal/xreveal_translations/main/Xreveal_ENU.ini">Xreveal_ENU.ini</a>, rename to Xreveal_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
+1. Download <a href="https://raw.githubusercontent.com/xreveal/xreveal-translations/refs/heads/main/Xreveal_ENU.ini">Xreveal_ENU.ini</a>, rename to Xreveal_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
 2. Translate strings after '=' character
 <pre>    [INFO]
     ID=0x0409           ; LCID (Locale identifier)
@@ -35,3 +35,4 @@
 4. Send file to <a herf="mailto:support@xreveal.com">support@xreveal.com</a> or pull requests here.
 
    We recommend that you sign up for GitHub and accept as a collaborator on this project, so that you can receive notifications every time there is a change to the language files, and it is very convenient to be able to edit the files online.
+
