@@ -15,7 +15,7 @@
     <tr><td>Russian (Русский)       </td><td><a href="Xreveal_RUS.ini">Xreveal_RUS.ini</a></td><td>2.8.0</td><td>jekovcar</td></tr>
     <tr><td>Spanish (Español)       </td><td><a href="Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>2.8.4</td><td>Steven Rogers, Leandro Botella Penalva</td></tr>
     <tr><td>Slovenian (Slovenščina) </td><td><a href="Xreveal_SLV.ini">Xreveal_SLV.ini</a></td><td>2.5.6</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
-    <tr><td>Swedish (Svenska)       </td><td><a href="Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td>2.8.4</td><td>Sopor, Harry Samwel</td></tr>
+    <tr><td>Swedish (Svenska)       </td><td><a href="Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td>2.8.5</td><td>Harry Samwel, Sopor</td></tr>
 </table>
 
 ## How to contribute
@@ -35,6 +35,7 @@
 4. Send file to <a herf="mailto:support@xreveal.com">support@xreveal.com</a> or pull requests here.
 
    We recommend that you sign up for GitHub and accept as a collaborator on this project, so that you can receive notifications every time there is a change to the language files, and it is very convenient to be able to edit the files online.
+
 
 
 
