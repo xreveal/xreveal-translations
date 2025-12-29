@@ -33,8 +33,4 @@
     ...</pre>
 3. Copy the new language file to %ProgramFiles%\Xreveal\language\, restart Xreveal, then change language in Settings.
 4. Send file to <a herf="mailto:support@xreveal.com">support@xreveal.com</a> or pull requests here.
-
-   We recommend that you sign up for GitHub and accept as a collaborator on this project, so that you can receive notifications every time there is a change to the language files, and it is very convenient to be able to edit the files online.
-
-
-
+   If you want to be a collaborator of this project, please email to support@xreveal.com with your GitHub account name, thank you.
