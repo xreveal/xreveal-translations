@@ -1,15 +1,15 @@
 ## Translations for Xreveal
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English                 </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>2.9.5</td><td>xreveal</td></tr>
+    <tr><td>English                 </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>2.9.6</td><td>xreveal</td></tr>
     <tr><td>Bulgarian               </td><td><a href="Xreveal_BUL.ini">Xreveal_BUL.ini</a></td><td>2.8.9</td><td>jekovcar</td></tr>
     <tr><td>Chinese (简体中文)      </td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>2.9.5</td><td>Tanuki</td></tr>
     <tr><td>German (Deutsch)        </td><td><a href="Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>2.9.5</td><td>The Punisher</td></tr>
     <tr><td>French (Français)       </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>2.9.5</td><td>Andex, fansubmaniac</td></tr>
     <tr><td>Indonesian (Indonesia)  </td><td><a href="Xreveal_IND.ini">Xreveal_IND.ini</a></td><td>2.9.5</td><td><a href="https://github.com/naturbrilian">Lieba Natur Brilian (naturbrilian)</a></td></tr>
     <tr><td>Italian (Italiano)      </td><td><a href="Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td>2.9.5</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
-    <tr><td>Japanese (日本語)        </td><td><a href="Xreveal_JPN.ini">Xreveal_JPN.ini</a></td><td>2.8.4</td><td><a href="https://github.com/reindex-ot">Re*Index.(ot_inc)</a></td></tr>
-    <tr><td>Korean (한국어)            </td><td><a href="Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td>2.9.4</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
+    <tr><td>Japanese (日本語)       </td><td><a href="Xreveal_JPN.ini">Xreveal_JPN.ini</a></td><td>2.8.4</td><td><a href="https://github.com/reindex-ot">Re*Index.(ot_inc)</a></td></tr>
+    <tr><td>Korean (한국어)           </td><td><a href="Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td>2.9.4</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
     <tr><td>Polish (Polski)         </td><td><a href="Xreveal_PLK.ini">Xreveal_PLK.ini</a></td><td>2.8.9</td><td>adijos, Fresta</td></tr>
     <tr><td>Russian (Русский)       </td><td><a href="Xreveal_RUS.ini">Xreveal_RUS.ini</a></td><td>2.8.9</td><td>jekovcar</td></tr>
     <tr><td>Spanish (Español)       </td><td><a href="Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>2.9.5</td><td>Steven Rogers, Leandro Botella Penalva</td></tr>
@@ -32,7 +32,3 @@
 3. Copy the new language file to %ProgramFiles%\Xreveal\language\, restart Xreveal, then change language in Settings.
 4. Send file to <a herf="mailto:support@xreveal.com">support@xreveal.com</a> or pull requests here.
    If you want to be a collaborator of this project, please email to support@xreveal.com with your GitHub account name, thank you.
-
-
-
-
