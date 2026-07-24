@@ -16,6 +16,8 @@
     <tr><td>Swedish (Svenska)       </td><td><a href="Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td><!--SVE-->2.9.5</td><td>Harry Samwel, Sopor</td></tr>
 </table>
 
+Note: github-actions[bot] will automatically update the Version in the table above based on the .ini file after you commit files, so usually you don't need to change it manually.
+
 ## How to contribute
 1. Download <a href="https://raw.githubusercontent.com/xreveal/xreveal-translations/refs/heads/main/Xreveal_ENU.ini">Xreveal_ENU.ini</a>, rename to Xreveal_**[Language code]**.ini. The **Language code** can be found at <a href="https://xreveal.com/lcid.html">LCID - Locale identifier</a>.
 2. Translate text after '='
