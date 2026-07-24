@@ -28,32 +28,32 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Extract version & update README
         run: |
-          ENU=$(grep "^Version=" Xreveal_ENU.ini | cut -d'=' -f2)
-          sed -i "s/<!--ENU-->[0-9]+(\.[0-9]+)*/<!--ENU-->$ENU/g" README.md
-          BUL=$(grep "^Version=" Xreveal_BUL.ini | cut -d'=' -f2)
-          sed -i "s/<!--BUL-->[0-9]+(\.[0-9]+)*/<!--BUL-->$BUL/g" README.md
-          CHS=$(grep "^Version=" Xreveal_CHS.ini | cut -d'=' -f2)
-          sed -i "s/<!--CHS-->[0-9]+(\.[0-9]+)*/<!--CHS-->$CHS/g" README.md
-          DEU=$(grep "^Version=" Xreveal_DEU.ini | cut -d'=' -f2)
-          sed -i "s/<!--DEU-->[0-9]+(\.[0-9]+)*/<!--DEU-->$DEU/g" README.md
-          FRA=$(grep "^Version=" Xreveal_FRA.ini | cut -d'=' -f2)
-          sed -i "s/<!--FRA-->[0-9]+(\.[0-9]+)*/<!--FRA-->$FRA/g" README.md
-          IND=$(grep "^Version=" Xreveal_IND.ini | cut -d'=' -f2)
-          sed -i "s/<!--IND-->[0-9]+(\.[0-9]+)*/<!--IND-->$IND/g" README.md
-          ITA=$(grep "^Version=" Xreveal_ITA.ini | cut -d'=' -f2)
-          sed -i "s/<!--ITA-->[0-9]+(\.[0-9]+)*/<!--ITA-->$ITA/g" README.md
-          JPN=$(grep "^Version=" Xreveal_JPN.ini | cut -d'=' -f2)
-          sed -i "s/<!--JPN-->[0-9]+(\.[0-9]+)*/<!--JPN-->$JPN/g" README.md
-          KOR=$(grep "^Version=" Xreveal_KOR.ini | cut -d'=' -f2)
-          sed -i "s/<!--KOR-->[0-9]+(\.[0-9]+)*/<!--KOR-->$KOR/g" README.md
-          PLK=$(grep "^Version=" Xreveal_PLK.ini | cut -d'=' -f2)
-          sed -i "s/<!--PLK-->[0-9]+(\.[0-9]+)*/<!--PLK-->$PLK/g" README.md
-          RUS=$(grep "^Version=" Xreveal_RUS.ini | cut -d'=' -f2)
-          sed -i "s/<!--RUS-->[0-9]+(\.[0-9]+)*/<!--RUS-->$RUS/g" README.md
-          SPA=$(grep "^Version=" Xreveal_SPA.ini | cut -d'=' -f2)
-          sed -i "s/<!--SPA-->[0-9]+(\.[0-9]+)*/<!--SPA-->$SPA/g" README.md
-          SVE=$(grep "^Version=" Xreveal_SVE.ini | cut -d'=' -f2)
-          sed -i "s/<!--SVE-->[0-9]+(\.[0-9]+)*/<!--SVE-->$SVE/g" README.md
+          ENU=$(grep "^Version=" Xreveal_ENU.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--ENU-->[0-9]+(\.[0-9]+)*/<\!--ENU-->$ENU/g" README.md
+          BUL=$(grep "^Version=" Xreveal_BUL.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--BUL-->[0-9]+(\.[0-9]+)*/<\!--BUL-->$BUL/g" README.md
+          CHS=$(grep "^Version=" Xreveal_CHS.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--CHS-->[0-9]+(\.[0-9]+)*/<\!--CHS-->$CHS/g" README.md
+          DEU=$(grep "^Version=" Xreveal_DEU.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--DEU-->[0-9]+(\.[0-9]+)*/<\!--DEU-->$DEU/g" README.md
+          FRA=$(grep "^Version=" Xreveal_FRA.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--FRA-->[0-9]+(\.[0-9]+)*/<\!--FRA-->$FRA/g" README.md
+          IND=$(grep "^Version=" Xreveal_IND.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--IND-->[0-9]+(\.[0-9]+)*/<\!--IND-->$IND/g" README.md
+          ITA=$(grep "^Version=" Xreveal_ITA.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--ITA-->[0-9]+(\.[0-9]+)*/<\!--ITA-->$ITA/g" README.md
+          JPN=$(grep "^Version=" Xreveal_JPN.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--JPN-->[0-9]+(\.[0-9]+)*/<\!--JPN-->$JPN/g" README.md
+          KOR=$(grep "^Version=" Xreveal_KOR.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--KOR-->[0-9]+(\.[0-9]+)*/<\!--KOR-->$KOR/g" README.md
+          PLK=$(grep "^Version=" Xreveal_PLK.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--PLK-->[0-9]+(\.[0-9]+)*/<\!--PLK-->$PLK/g" README.md
+          RUS=$(grep "^Version=" Xreveal_RUS.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--RUS-->[0-9]+(\.[0-9]+)*/<\!--RUS-->$RUS/g" README.md
+          SPA=$(grep "^Version=" Xreveal_SPA.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--SPA-->[0-9]+(\.[0-9]+)*/<\!--SPA-->$SPA/g" README.md
+          SVE=$(grep "^Version=" Xreveal_SVE.ini | cut -d'=' -f2 | tr -d '\r')
+          sed -i -E "s/<\!--SVE-->[0-9]+(\.[0-9]+)*/<\!--SVE-->$SVE/g" README.md
 
       - name: Commit updated README
         uses: stefanzweifel/git-auto-commit-action@v7
