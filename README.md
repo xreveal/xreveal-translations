@@ -13,7 +13,7 @@
     <tr><td>Polish (Polski)         </td><td><a href="Xreveal_PLK.ini">Xreveal_PLK.ini</a></td><td><!--PLK-->2.8.9</td><td>adijos, Fresta</td></tr>
     <tr><td>Russian (Русский)       </td><td><a href="Xreveal_RUS.ini">Xreveal_RUS.ini</a></td><td><!--RUS-->2.8.9</td><td>jekovcar</td></tr>
     <tr><td>Spanish (Español)       </td><td><a href="Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td><!--SPA-->2.9.8</td><td>Steven Rogers, Leandro Botella Penalva</td></tr>
-    <tr><td>Swedish (Svenska)       </td><td><a href="Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td><!--SVE-->2.9.6</td><td>Harry Samwel, Sopor</td></tr>
+    <tr><td>Swedish (Svenska)       </td><td><a href="Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td><!--SVE-->2.9.8</td><td>Harry Samwel, Sopor</td></tr>
 </table>
 
 Note: github-actions[bot] will automatically update the Version in the table above based on the .ini file after you commit files, so usually you don't need to change it manually.
